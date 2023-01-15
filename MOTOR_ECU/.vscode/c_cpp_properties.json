@@ -1,0 +1,60 @@
+//
+// !!! WARNING !!! AUTO-GENERATED FILE!
+// PLEASE DO NOT MODIFY IT AND USE "platformio.ini":
+// https://docs.platformio.org/page/projectconf/section_env_build.html#build-flags
+//
+{
+    "configurations": [
+        {
+            "name": "PlatformIO",
+            "includePath": [
+                "e:/CSE/ITI_Trainning/BIG_BANG/MOTOR_ECU/include",
+                "e:/CSE/ITI_Trainning/BIG_BANG/MOTOR_ECU/src",
+                "e:/CSE/ITI_Trainning/BIG_BANG/MOTOR_ECU/lib/uart",
+                "e:/CSE/ITI_Trainning/BIG_BANG/MOTOR_ECU/lib/timer1",
+                "e:/CSE/ITI_Trainning/BIG_BANG/MOTOR_ECU/lib/timer0",
+                "e:/CSE/ITI_Trainning/BIG_BANG/MOTOR_ECU/lib/lcd",
+                "e:/CSE/ITI_Trainning/BIG_BANG/MOTOR_ECU/lib/dio",
+                "e:/CSE/ITI_Trainning/BIG_BANG/MOTOR_ECU/lib/macros",
+                "e:/CSE/ITI_Trainning/BIG_BANG/MOTOR_ECU/lib/ADC",
+                "e:/CSE/ITI_Trainning/BIG_BANG/MOTOR_ECU/lib/psc",
+                "e:/CSE/ITI_Trainning/BIG_BANG/MOTOR_ECU/lib/timer",
+                "e:/CSE/ITI_Trainning/BIG_BANG/MOTOR_ECU/.pio/libdeps/ATmega32/Unity/src",
+                ""
+            ],
+            "browse": {
+                "limitSymbolsToIncludedHeaders": true,
+                "path": [
+                    "e:/CSE/ITI_Trainning/BIG_BANG/MOTOR_ECU/include",
+                    "e:/CSE/ITI_Trainning/BIG_BANG/MOTOR_ECU/src",
+                    "e:/CSE/ITI_Trainning/BIG_BANG/MOTOR_ECU/lib/uart",
+                    "e:/CSE/ITI_Trainning/BIG_BANG/MOTOR_ECU/lib/timer1",
+                    "e:/CSE/ITI_Trainning/BIG_BANG/MOTOR_ECU/lib/timer0",
+                    "e:/CSE/ITI_Trainning/BIG_BANG/MOTOR_ECU/lib/lcd",
+                    "e:/CSE/ITI_Trainning/BIG_BANG/MOTOR_ECU/lib/dio",
+                    "e:/CSE/ITI_Trainning/BIG_BANG/MOTOR_ECU/lib/macros",
+                    "e:/CSE/ITI_Trainning/BIG_BANG/MOTOR_ECU/lib/ADC",
+                    "e:/CSE/ITI_Trainning/BIG_BANG/MOTOR_ECU/lib/psc",
+                    "e:/CSE/ITI_Trainning/BIG_BANG/MOTOR_ECU/lib/timer",
+                    "e:/CSE/ITI_Trainning/BIG_BANG/MOTOR_ECU/.pio/libdeps/ATmega32/Unity/src",
+                    ""
+                ]
+            },
+            "defines": [
+                "F_CPU=16000000UL",
+                "PLATFORMIO=60104",
+                "ARDUINO_AVR_ATmega32",
+                "__AVR_ATmega32__",
+                ""
+            ],
+            "cStandard": "c11",
+            "cppStandard": "c++11",
+            "compilerPath": "C:/Users/shady/.platformio/packages/toolchain-atmelavr/bin/avr-gcc.exe",
+            "compilerArgs": [
+                "-mmcu=atmega32",
+                ""
+            ]
+        }
+    ],
+    "version": 4
+}
